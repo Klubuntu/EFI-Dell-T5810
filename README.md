@@ -4,6 +4,8 @@
   
 *If you notice that something is working or not working write on Issues*
 
+[Get latest release](https://github.com/Klubuntu/EFI-Dell-T5810/releases/latest)
+
 ## ⚠️ Important
 - Required minimum BIOS version is **A12**
 - If you need access to Apple Account (generate required values)
